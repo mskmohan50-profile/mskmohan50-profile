@@ -1,125 +1,203 @@
 # Hi, I'm Mohan Raj G. 👋
 
-### Software Developer | Full-Stack Developer | AI Engineer
+### Software Developer · Full-Stack Developer · AI Engineer
 
-I build scalable web applications, backend APIs, and AI-powered products.
+> Building full-stack applications, scalable APIs, AI-powered systems, and automation workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://mskmohan50-profile.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohan-raj-g-6670b7299/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mskmohan50-profile)
-
----
-
-## 🚀 About Me
-
-- 💻 Software Developer focused on **Full-Stack & Backend Development**
-- 🤖 Building applications with **AI, LLMs & Agent Workflows**
-- ⚡ Experienced with **Python, FastAPI, Node.js, TypeScript & React**
-- 🗄️ Working with **PostgreSQL, MySQL & MongoDB**
-- 🔐 Building secure APIs using **JWT, RBAC & authentication**
-- 🌱 Currently improving my skills in **AI Engineering & scalable backend systems**
-- 📍 Based in India
+<p align="left">
+  <a href="https://mskmohan50-profile.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-raj-g-6670b7299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mskmohan50-profile">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+I'm a Computer Science graduate and Software Developer focused on building modern web applications, backend systems, REST APIs, and AI-powered products.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-### AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
+* 💻 Full-Stack development with **React, TypeScript, Node.js and Python**
+* ⚙️ Backend development using **Express, FastAPI, Flask and Django**
+* 🤖 Building **AI agents, LLM workflows and automation systems**
+* 🗄️ Designing applications with **PostgreSQL, MongoDB and Redis**
+* 🔐 Implementing **JWT authentication, RBAC and role-scoped APIs**
+* ☁️ Deploying applications using **AWS, Vercel and Render**
+* 🐳 Containerizing applications with **Docker**
+* 🔄 Working with **GitHub Actions and CI/CD**
+* 🧩 Interested in **AI Engineering, Backend Engineering and Full-Stack Development**
+* 📍 India · **Available for opportunities**
 
 ---
 
-## ⭐ Featured Projects
+## 🧰 Technical Skills
 
-### 🤖 AI-Powered Customer Complaint Management
-AI-driven complaint management platform with automated classification, risk analysis and CAPA workflows.
+### 💻 Programming Languages
 
-**Tech:** React · TypeScript · FastAPI · LangGraph · Groq · PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,sql" />
+</p>
 
----
+**Python · JavaScript · TypeScript · Java · SQL · HTML · CSS**
 
-### 🧑‍💻 AI Agent Workflow Builder
-Platform for designing and executing AI-powered workflows with authentication, RBAC and database-backed execution.
+### 🎨 Frontend
 
-**Tech:** Next.js · TypeScript · Express · PostgreSQL · Groq
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
 
----
+**React.js · Next.js · Redux Toolkit · TypeScript · Tailwind CSS · Recharts**
 
-### 🚀 DevPilot AI
-An autonomous AI-powered full-stack development assistant capable of generating and managing application workflows.
+### ⚙️ Backend
 
-**Tech:** React · TypeScript · FastAPI · SQLAlchemy · PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
+</p>
 
----
+**Node.js · Express.js · FastAPI · Flask · Django · REST APIs · JWT**
 
-### 🛒 E-Commerce Platform
-Full-stack e-commerce application featuring product management, authentication, cart and order workflows.
+### 🗄️ Databases
 
-**Tech:** React · Node.js · Express · MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+</p>
 
----
+**PostgreSQL · MongoDB · Redis · MySQL · SQLAlchemy**
 
-## 📊 GitHub Stats
+### 🤖 AI / Machine Learning
 
-<div align="center">
+**AI Agents · LLM Applications · LangGraph · Groq API · Gemini API · Hugging Face · Sentence Transformers · LightGBM · OpenCV · YOLOv5 · Joblib**
 
-<img src="https://github-readme-stats.vercel.app/api?username=mskmohan50-profile&show_icons=true&hide_border=true&rank_icon=github" />
+### ☁️ Cloud / DevOps
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mskmohan50-profile&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel" />
+</p>
 
-</div>
+**AWS · Docker · Docker Compose · Git · GitHub · GitHub Actions · CI/CD · Vercel · Render**
 
----
+### 🛠️ Tools
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mskmohan50-profile&hide_border=true" />
-
-</div>
-
----
-
-## 💼 Open to Opportunities
-
-I'm currently looking for opportunities as a:
-
-**Software Developer · Full-Stack Developer · Backend Developer · AI Engineer**
-
-Interested in building real-world products involving **web applications, APIs, databases and AI-powered systems**.
-
-📫 Feel free to connect with me on LinkedIn or explore my projects on GitHub.
+**Postman · Figma · REST APIs · Webhooks · GraphQL · PapaParse · SheetJS · jsPDF**
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### "Build. Learn. Ship. Repeat."
+### 🤖 AI Agent Workflow Builder
 
-</div>
+**AI Agents · Workflow Automation · Groq API · Next.js · TypeScript · Node.js · Express · PostgreSQL**
+
+An n8n-style visual workflow automation platform for designing and executing AI-powered workflows.
+
+**Highlights**
+
+* Built a visual workflow engine supporting **6 node types**
+* Implemented **manual, webhook, scheduled and database-event triggers**
+* Added real-time workflow execution tracking
+* Implemented **RBAC and organization management**
+* Added approval-based workflow pause/resume
+* Integrated **Groq LLMs** into a modular Node.js/Express backend
+* Used PostgreSQL and GraphQL for data and workflow management
+
+---
+
+### 🧠 AI-Powered Customer Complaint Management
+
+**React · Redux Toolkit · TypeScript · FastAPI · LangGraph · Groq · PostgreSQL**
+
+AI-powered Quality Management System for processing and analyzing regulatory complaint documents.
+
+**Highlights**
+
+* Built a **7-node LangGraph AI pipeline**
+* Automated document extraction and risk classification
+* Implemented duplicate detection and CAPA recommendations
+* Supports **PDF, DOCX, EML and TXT** documents
+* Developed real-time auto-save and AI chat-based form editing
+* Built FastAPI REST APIs using SQLAlchemy
+* Supports SQLite, MySQL and PostgreSQL
+* Designed a multi-agent pipeline for extraction, classification, recommendation and summarization
+
+---
+
+### 🚀 DevPilot AI — Autonomous AI Software Engineer
+
+**React · TypeScript · FastAPI · Node.js · Gemini API · PostgreSQL · Docker**
+
+An autonomous multi-agent AI platform that transforms natural-language requirements into full-stack applications.
+
+**Highlights**
+
+* Designed a **7-stage agentic software-development pipeline**
+* Requirement → Architecture → Code Generation → Test → Debug → Fix → Review
+* Implemented self-healing **test → debug → fix → retest** workflows
+* Integrated Gemini API for multi-agent orchestration
+* Connected React frontend, FastAPI backend and Node.js AI engine
+* Containerized the multi-service application using Docker and Docker Compose
+
+---
+
+### 📊 Manufacturing Quality Intelligence Dashboard
+
+**React · TypeScript · Express · MongoDB · JWT · Recharts**
+
+Full-stack analytics platform for manufacturing quality and defect analysis.
+
+**Highlights**
+
+* Implemented JWT authentication
+* Built ownership-scoped REST APIs
+* Added CSV/Excel data ingestion
+* Created KPI and defect visualization dashboards
+* Implemented CSV/PDF export
+* Added append-only audit logging
+* Designed data-quality scoring
+* Documented a multi-tenant scaling architecture
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mskmohan50-profile&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mskmohan50-profile&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mskmohan50-profile&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Looking For
+
+I'm open to opportunities in:
+
+**Software Development · Full-Stack Development · Backend Development · AI Engineering · AI/ML Development**
+
+I'm particularly interested in building products involving:
+
+`Web Applications` · `REST APIs` · `AI Agents` · `LLM Systems` · `Workflow Automation` · `Databases` · `Cloud & DevOps`
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 **Portfolio:** https://mskmohan50-profile.github.io/portfolio/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mohan-raj-g-6670b7299/
+* 🐙 **GitHub:** https://github.com/mskmohan50-profile
+* 📧 **Email:** [mskmohan50@gmail.com](mailto:mskmohan50@gmail.com)
+
+---
+
+<p align="center">
+  <b>Build · Learn · Solve · Ship</b>
+</p>
