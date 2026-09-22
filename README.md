@@ -169,17 +169,6 @@ Full-stack analytics platform for manufacturing quality and defect analysis.
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mskmohan50-profile&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
 ## 🎯 Currently Looking For
 
 I'm open to opportunities in:
