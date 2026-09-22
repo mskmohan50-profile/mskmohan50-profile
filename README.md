@@ -169,10 +169,13 @@ Full-stack analytics platform for manufacturing quality and defect analysis.
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mskmohan50-profile&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mskmohan50-profile&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
